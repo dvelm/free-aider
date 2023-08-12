@@ -30,7 +30,7 @@ cd free-aider
 ```
 **Step 3)** Run command 
 ```
-python -m pip install git+https://github.com/paul-gauthier/aider.git
+python -m pip install git+https://github.com/dvelm/free-aider
 ```
 
 **Step 4)** [Obtain a free API key](https://api.chatanywhere.cn/v1/oauth/free/github/render) by signing in with your GitHub account.
