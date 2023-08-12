@@ -1,3 +1,5 @@
+https://www.buymeacoffee.com/dvelm
+
 # free-aider - Free AI Pair Programming in your Terminal
 
 free-aider is a free, open source version of [aider](https://github.com/paul-gauthier/aider) that enables AI-assisted coding. It has all the core features of aider but does not require an OpenAI API key.
