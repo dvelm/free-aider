@@ -28,10 +28,14 @@ git clone https://github.com/dvelm/free-aider
 ```
 cd free-aider
 ```
+**Step 3)** Run command 
+```
+python -m pip install git+https://github.com/paul-gauthier/aider.git
+```
 
-**Step 3)** [Obtain a free API key](https://api.chatanywhere.cn/v1/oauth/free/github/render) by signing in with your GitHub account.
+**Step 4)** [Obtain a free API key](https://api.chatanywhere.cn/v1/oauth/free/github/render) by signing in with your GitHub account.
 
-**Step 4)** Set your API key:
+**Step 5)** Set your API key:
 
 - Windows: in cmd or PowerShell `setx OPENAI_API_KEY sk-...` 
 - Linux: in terminal `export OPENAI_API_KEY=sk-...`
